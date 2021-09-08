@@ -1,0 +1,1 @@
+alert("No Mora No");
